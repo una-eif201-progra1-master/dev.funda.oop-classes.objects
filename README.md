@@ -1,5 +1,7 @@
 # Classes and Objects
 
+https://mikeguzman.dev/software-development/programming-fundations/object-oriented-programming/
+
 ```c++
 // Example of Class and Object
 class Car {
@@ -23,4 +25,4 @@ int main() {
 
 ```
 
-In this example, `Car` is a class with attributes `color` and `model`, and a method `start()`. `car1` is an object of the class `Car`.
+In this example, `Car` is a class with attributes `color, model, and method `start()`. `car1` is an object of the class `Car`.
