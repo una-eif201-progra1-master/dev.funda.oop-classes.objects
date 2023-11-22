@@ -1,2 +1,2 @@
 language: "cpp"
-run: "cmake -B build && cmake --build build && ./build/MyProject"
+run: "cmake -B build && cmake --build build && ./build/Example"
