@@ -1,2 +1,2 @@
-language = "cpp"
-run = "clang++-7 -pthread -std=c++17 -o appName include/main.cpp; ./appName"
+language: "cpp"
+run: "cmake -B build && cmake --build build && ./build/MyProject"
